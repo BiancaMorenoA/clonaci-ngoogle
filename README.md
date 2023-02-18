@@ -5,7 +5,7 @@
 
 *[1. Intro](#)
 *[2. Que Construí](#)
-*[3. Objetivo del Proyecto)(#)
+*[3. Objetivo del Proyecto](#)
 *[4. Link a demo] (#)
 
 *****
